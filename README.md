@@ -20,7 +20,7 @@ I combine a background in **Information Systems and Economics** with hands-on ex
 - Restaurant Management System (OOP with Java)
 - Scalable system for assisted living centers using **AppSheet + Power BI** (for a startup)
 
-🛠️ At my current role in a leading security-tech company, I manage and improve internal systems, support Agile adoption, and lead cross-functional projects involving **Jira**, **EazyBI**, and other tools.
+🛠️ At my current role in a leading security-tech company, I manage and improve internal systems, and lead cross-functional projects.
 
 🎓 I also worked as a **Teaching Assistant** in an Information Systems Analysis course at the University of Haifa.
 
